@@ -1,0 +1,52 @@
+
+.parent{
+    padding: 2%;
+    width: 98%;
+    background:linear-gradient(to top ,white,rgb(0, 140, 255)
+    );   
+}
+
+.sub-parent{
+    
+   float: left;
+   width: 100%;
+   
+  
+}
+
+.child{
+    float: left;
+    padding: 2%;
+    width: 30%;
+    
+    
+}
+.text-style{
+    
+    width: 50%;
+    
+}
+.textbox-style{
+    float: left;
+    border-radius: 5px;
+    width: 100%;
+    padding: 5px 20px;
+    background-color: rgb(220, 220, 225)
+    
+}
+
+.submit_but{
+    color: rgb(0, 0, 0);
+    background:linear-gradient(to top ,rgba(255, 77, 0, 0.767),rgb(209, 202, 202));
+    border-radius: 5px;
+    border-color: aliceblue;
+    margin-left: 45%;
+    padding: 10px 20px;
+}
+h1{
+    text-align: center;
+    background-color: blueviolet;
+    animation-name: example;
+    animation-duration: 5S;
+    animation-delay: -2s;
+}
